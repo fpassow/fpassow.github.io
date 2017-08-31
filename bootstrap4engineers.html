@@ -18,15 +18,18 @@
      <p>But to the the modern eye, unstyled HTML does look like poo-with-serifs. It isn&apos;t a nice thing to do to inocent readers.
      And, let&apos;s admit it, we really do like it when our pages look better.</p>
      
-     <h2>The Least We Can Do</h2>
+     <h2>Easy Wins</h2>
      
-     <p>First, we will cover adding the bootstrap css to a page, and discuss what that gives us for free. After that, I will list some
-     features that might already be on your page, and some quick ways to improve them.</p>
+     <p>There are plenty of bootstrap tutorials out there. And they are great for learning Bootstrap end-to-end. On this page, I will
+       concentrate on easy ways to apply it to an existing page to make the most difference with the least effort.</p>
      
-     <p>Here's a template for an HTML5 page that pulls bootstrap from a public Content Delivery Network, and adds one META tag and one DIV
+     <p>First, here's a template for an HTML5 page that pulls bootstrap from a public Content Delivery Network, and adds one META tag and one DIV
      to make it all work.</p>
      
-     <pre><code>
+     <p>This gives a number of improvements, including nicer fonts, automatic styling of &lt;pre&gt; and &lt;blockquote&gt; tags, and nice
+       styling if you use a &lt;footer&gt; tag in your blockquote.</p>
+     
+     <pre>
 <!DOCTYPE html>
 &lt;html lang=&quot;en&quot&gt;
   &lt;head&gt;
@@ -35,14 +38,22 @@
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css&quot;&gt;
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;div class=&lquot;container&quot;&gt;
+    &lt;div class=&quot;container&quot;&gt;
     
     
     &lt;/div&gt;
   &lt;/body&gt;
 &lt;/html&gt;
-     </code></pre>
-   
+     </pre>
+     
+     <p>This page uses Bootstrap&apos;s default fonts. The code above is in plain old &lt;pre&gt; tags. And here's an example of 
+       a blockquote with a &lt;footer&gt; element inside:</p>
+     
+     <blockquote>
+       A blockquoted quote about blockquote: The HTML <blockquote> Element (or HTML Block Quotation Element) indicates that the enclosed text is an extended quotation.
+       <footer>MDN</footer>
+     </blockquote>
+       
    </div>
   <body>
 </html>
