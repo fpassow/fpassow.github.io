@@ -18,10 +18,12 @@
      <p>But to the the modern eye, unstyled HTML does look like poo-with-serifs. It isn&apos;t a nice thing to do to inocent readers.
      And, let&apos;s admit it, we really do like it when our pages look better.</p>
      
+     <p>For comparison, you can look at <a href="bootstrap4engineers_plain.html">this page without Bootstrap</a>.</p>
+     
      <h2>Easy Wins</h2>
      
-     <p>There are plenty of bootstrap tutorials out there. And they are great for learning Bootstrap end-to-end. On this page, I will
-       concentrate on easy ways to apply it to an existing page to make the most difference with the least effort.</p>
+     <p>This isn&apos; a complete Bootstrap tutorial. Instead I will concentrate on the smallest changes that have the biggest
+       pay-off.</p>
      
      <p>First, here's a template for an HTML5 page that pulls bootstrap from a public Content Delivery Network, and adds one META tag and one DIV
      to make it all work.</p>
@@ -54,6 +56,43 @@
        that the enclosed text is an extended quotation.
        <footer>MDN</footer>
      </blockquote>
+     
+     <h2>Tables</h2>
+     
+     <p>We add Bootstrap effects by adding pre-defined Bootstrap classes to our HTML elements. To tell Bootstrap to style
+       a table, we add <code>class=&quot;table&quot;</code> to a table tag. And that makes our table look like this:</p>
+     
+    <table class="table">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Isaac</td>
+        <td>Asimov</td>
+        <td>Caves of Steel</td>
+      </tr>
+      <tr>
+        <td>Larry</td>
+        <td>Niven</td>
+        <td>Ringworld</td>
+      </tr>
+      <tr>
+        <td>Robert</td>
+        <td>Heinlein</td>
+        <td>Stranger in a Strange Land</td>
+      </tr>
+      <tr>
+        <td>William</td>
+        <td>Gibson</td>
+        <td>Neuromancer</td>
+      </tr>
+    </tbody>
+  </table>
        
    </div>
   <body>
