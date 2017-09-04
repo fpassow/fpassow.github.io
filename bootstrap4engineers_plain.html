@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+    <title>Bootstrap for Engineers</title>
+  </head>
+  <body>
+   <div class="container">
+   
+     <h1>Bootstrap for Engineers</h1>
+     
+     <p>I once sang the praises of &quot;Cro-Magnon HTML&quot;. Ancient, unstyled html loaded quickly, communicated clearly,
+     displayed correctly on every imaginable device, and never broke. It was functional. It did the job. I might have even used the word
+     &quot;cosmetic&quot; in a disparaging way.</p>
+     
+     <p>But to the the modern eye, unstyled HTML can look like poo-with-serifs. For example, you can look at <a href="bootstrap4engineers_plain.html">this page without Bootstrap</a>.</p>
+
+     <p>So let&apos;s stop doing that to people. And, to be honest, we really do want our pages to look nicer.</p>
+     
+     <h2>What is Bootstrap?</h2>
+     
+     <p>In its simplest form, Bootstrap is just a <code>.css</code> file. It was originally developed at Twitter. You link to it like any
+       other .css file. You can host a copy on your own web server. Or you can link to a copy on giant, powerful, reliable servers
+       that other people manage for us.</p>
+     
+     <p>Like any other style sheet, it applies some styles to standard HTML tags. And it applies others to the tags you mark with
+       specific classes, i.e. <code>&lt;tag class=&quot;classname&quot; &gt;</code>.</p>
+       
+       <p>If the Bootstrap css file is not available, your HTML displays according to your browser&apos;s defaults. Nothing
+         breaks. People can still read your page.</p>
+     
+     <h2>Easy Wins</h2>
+     
+     <p>This isn&apos;t a complete Bootstrap tutorial. Instead I will concentrate on the smallest changes that have the biggest
+       pay-off.</p>
+     
+     <p>First, here's a template for an HTML5 page that pulls bootstrap from a public Content Delivery Network, and adds one META tag and one DIV
+     to make it all work.</p>
+     
+     <p>This gives us a number of improvements, including nicer fonts, automatic styling of &lt;code&gt;, &lt;pre&gt; and &lt;blockquote&gt; tags, and more nice
+       styling if you use a &lt;footer&gt; tag in your blockquote.</p>
+     
+     <pre>
+<!DOCTYPE html>
+&lt;html lang=&quot;en&quot&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css&quot;&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+     </pre>
+     
+     <p>This page uses Bootstrap&apos;s default fonts. The code above is in plain old &lt;pre&gt; tags. And here's an example of 
+       a blockquote with a &lt;footer&gt; element inside:</p>
+     
+     <blockquote>
+       A blockquoted quote about blockquote: The HTML &lt;blockquote&gt; Element (or HTML Block Quotation Element) indicates
+       that the enclosed text is an extended quotation.
+       <footer>MDN</footer>
+     </blockquote>
+
+      <p>Bootstrap also adds a cool effect when you use the <code>&lt;kbd&gt;</code> tag to tell people which <kbd>k</kbd> <kbd>e</kbd> <kbd>y</kbd> <kbd>s</kbd> to press.</p>
+     
+     <h2>Tables</h2>
+     
+     <p>We add other Bootstrap effects by adding pre-defined Bootstrap classes to our HTML elements. To tell Bootstrap to style
+       a table, we add <code>class=&quot;table&quot;</code> to a table tag. And that makes our table look like this:</p>
+     
+    <table class="table">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Isaac</td>
+        <td>Asimov</td>
+        <td>Caves of Steel</td>
+      </tr>
+      <tr>
+        <td>Larry</td>
+        <td>Niven</td>
+        <td>Ringworld</td>
+      </tr>
+      <tr>
+        <td>Robert</td>
+        <td>Heinlein</td>
+        <td>Stranger in a Strange Land</td>
+      </tr>
+      <tr>
+        <td>William</td>
+        <td>Gibson</td>
+        <td>Neuromancer</td>
+      </tr>
+    </tbody>
+  </table>
+     
+  
+     
+     <p>Two other nice effects are horizontal striping, and automatic highlighting of a row when your mouse hovers over it.</p>
+     <p>These are added with two more Bootstrap classes, &quot;table-striped&quot; and &quot;table-hover&quot;. So the table tag for
+       the table below looks like:</p>
+     <code>&lt;table class=&quot;table table-striped table-hover&quot;&gt;</code>
+   
+    <table class="table table-striped table-hover">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Isaac</td>
+        <td>Asimov</td>
+        <td>Caves of Steel</td>
+      </tr>
+      <tr>
+        <td>Larry</td>
+        <td>Niven</td>
+        <td>Ringworld</td>
+      </tr>
+      <tr>
+        <td>Robert</td>
+        <td>Heinlein</td>
+        <td>Stranger in a Strange Land</td>
+      </tr>
+      <tr>
+        <td>William</td>
+        <td>Gibson</td>
+        <td>Neuromancer</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Unstyled Lists</h2>
+  <p>Sometimes you just want a list, without indentation or numbers or bullets. With Bootstrap, you can just add <code>class=&quot;list-unstyled&quot;</code> to your <code>&lt;ol&gt;</code> or <code>&lt;ul&gt;</code> tag, and you get nothing but a simple, vertical, list:</p>
+
+  <ul class="list-unstyled">
+    <li>First thing</li>
+    <li>Second thing</li>
+    <li>Third thing</li>
+    <li>Forth thing</li>
+  </ul>
+
+  <h2>Wells</h2>
+
+  <p>Adding the <code>well</code> class to a div puts all of the div&apos;s content in a &quot;well&quot;, which sets it off from the rest of the page.</p>
+
+  <div class="well">
+    <p>A paragraph of text a well.</p>
+    <h3>An H3 Heading and Ordered List</h3>
+    <ol><li>Thing1</li><li>Thing2</li><li>Thing3</li></ol>
+    <p>And a final paragraph</p>
+  <div>
+     
+     <!--!!!!!!!!!!!!!!TODO:
+
+Alerts
+
+Responsive images once I have an image to link to.
+Grid and my list of simple ones to use.
+!!!!!!!!!!!!!!!!-->
+       
+   </div>
+  <body>
+</html>
+    
