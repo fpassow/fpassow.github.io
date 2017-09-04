@@ -1,0 +1,9 @@
+GIT NOTES
+---------
+
+1. Get url from [Clone or Download]
+
+2. Automatically creates it as a subdir:
+     git clone <url>
+
+
