@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>readmore.js: readless link outside</title>
+</head>
+<body>
+
+<div class="readmore-context">
+
+  <h1>Readless Link Can Be Outside of Readmore Elements</h1>
+
+  <p>This text is always displayed. However, if you click, you can 
+  	<a href="#" class="readmore">... read more</a>
+  </p>
+
+  <p class="readmore">This paragraph is only shown after the user clicks the &quot;read more&quot; link.</p>
+
+  <p class="readmore">This one, too</p>
+
+  <p class="readmore">And to hide them again, click below.</p>
+
+  <a href="#" class="readless">read less</a>
+
+</div><!-- end of readmore-context -->
+  
+<script type="text/javascript" src="readmore.js"></script>
+</body>
+</html>

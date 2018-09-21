@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>readmore.js: Bad!</title>
+</head>
+<body>
+
+<div class="readmore-context"><!-- <<<<<NOTICE THE CLASS HERE   -->
+
+  <h1>Don&apos;t Hide the Showmore Link</h1>
+
+  <p>This text is always displayed. However, you cannot get to the rest of the content because the readmore link is hidden in a readmore element.
+  </p>
+
+  <p class="readmore">
+  	<a href="#" class="readmore">... read more</a>
+    This paragraph is only shown after the user clicks the &quot;read more&quot; link.
+    And you can't do that, because it is hidden.
+  </p>
+
+  <a href="#" class="readless">read less</a>
+
+</div><!-- END OF READMORE-CONTEXT -->
+  
+<script type="text/javascript" src="readmore.js"></script>
+</body>
+</html>
