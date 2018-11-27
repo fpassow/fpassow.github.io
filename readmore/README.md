@@ -45,4 +45,8 @@ readmore link.</p>
 
 ```
 
-index.html has links to some example pages.
+index.html has links to some example pages, which you can play with online at
+<a href="https://fpassow.github.io/readmore">https://fpassow.github.io/readmore</a>
+
+Thanks!
+
