@@ -2,5 +2,5 @@
  &nbsp; &nbsp; &nbsp; 
 [![GitHub icon](GitHub-Mark-32px.png) GitHub](https://github.com/fpassow)
  &nbsp; &nbsp; &nbsp; 
-[![me](favicon.ico) About Me](about_me.html)
+[![me](fp.png) About Me](about_me.html)
 
