@@ -1,4 +1,4 @@
- [![me](home.png) Home](README.html)
+ [![me](home.png) Home](https://fpassow.github.io)
  &nbsp; &nbsp; &nbsp; 
  [![LinkedIn icon](In-2C-28px-R.png) LinkedIn](https://www.linkedin.com/in/fredrich-passow-4789146)
  &nbsp; &nbsp; &nbsp; 
@@ -28,7 +28,7 @@ Realized that "data" was a hot area which uses Python. And playing with the Tita
 
 
 
- [![me](home.png) Home](README.html)
+ [![me](home.png) Home](https://fpassow.github.io)
  &nbsp; &nbsp; &nbsp; 
 [![LinkedIn icon](In-2C-28px-R.png) LinkedIn](https://www.linkedin.com/in/fredrich-passow-4789146)
  &nbsp; &nbsp; &nbsp; 
