@@ -7,7 +7,7 @@
 # Projects
 
 ## [Google Data Analyst Cert: Final Project](https://fpassow.github.io/google_cert_project/)
-[![bike image](who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg)](https://fpassow.github.io/google_cert_project/)  Analyze rides data from a fictional bike-share company.
+| [![bike image](who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg)](https://fpassow.github.io/google_cert_project/) | Analyze rides data from a fictional bike-share company. |
 
 
 # Writing
