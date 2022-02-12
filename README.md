@@ -8,7 +8,7 @@
 
 ## [Recipe Ingredients Analysis](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis)
 <img align="left" src="katie-smith-uQs1802D0CQ-unsplash_SMALLER.jpg">
-Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn.
+Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis) . And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/)
