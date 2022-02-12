@@ -6,9 +6,14 @@
 
 # Projects
 
+## [Recipe Ingredients Analysis](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis)
+<img align="left" src="katie-smith-uQs1802D0CQ-unsplash_SMALLER.jpg">
+Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn.
+<br clear="left"/>
+
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/)
 <img align="left" src="who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg">
-Analyze rides data from a fictional bike-share company. |
+Analyze rides data from a fictional bike-share company using R and Excel.
 <br clear="left"/>
 
 # Writing
