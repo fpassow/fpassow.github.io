@@ -11,6 +11,11 @@
 Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis) . And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
+## [Some statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
+<img align="left" src="annie-spratt-wseixWvrsD4-unsplash_SMALLER.jpg">
+No earth-shattering insights here. Just some practice slicing, dicing, and graphing with Python, Pandas, and Seaborn.
+<br clear="left"/>
+
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/)
 <img align="left" src="who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg">
 Analyze rides data from a fictional bike-share company using R and Excel.
