@@ -11,7 +11,7 @@
 Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis) . And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
-## [Some statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
+## [Some Statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
 <img align="left" src="annie-spratt-wseixWvrsD4-unsplash_SMALLER.jpg">
 No earth-shattering insights here. Just some practice slicing, dicing, and graphing with Python, Pandas, and Seaborn.
 <br clear="left"/>
@@ -31,6 +31,11 @@ research the question of "what kind of language is R?", so I could stop wonderin
 ## [Bootstrap for Engineers](https://fpassow.github.io/bootstrap4engineers.html)
 How non-designers can easily use [Bootstrap](https://getbootstrap.com) to modernize the look
 of bare HTML.
+
+# Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82415c22-7347-4342-8dbe-bcdff5d6cefb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 [![LinkedIn icon](linkedin.png) LinkedIn](https://www.linkedin.com/in/fredrich-passow-4789146)
