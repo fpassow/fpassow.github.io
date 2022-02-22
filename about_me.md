@@ -3,13 +3,10 @@
 [![LinkedIn icon](linkedin.png) LinkedIn](https://www.linkedin.com/in/fredrich-passow-4789146)
  &nbsp; &nbsp; &nbsp; 
 [![GitHub icon](github.png) GitHub](https://github.com/fpassow)
-
+  &nbsp; &nbsp; &nbsp; 
+[![Kaggle icon](kaggle_icon.png) Kaggle](https://www.kaggle.com/fritzpassow/code)
 
 # About Me
-
-I am currently a Senior Support Engineer. Senior means that my coworkers can ask me about things I don't know. And I go find the answers.
-
-Support has to deliver an answer. A customer opens a case. And it says open until they say their problem is solved.
 
 I currently work for a Global SMS aggregator, a company that handles text messaging for other companies. When you get a one-time-pin,
 delivery notification, or appointment reminder, it passed through my employer or one of a small number of similar companies on its way
@@ -41,3 +38,6 @@ I became interested in data work as an area that uses Python. And playing with t
 [![LinkedIn icon](linkedin.png) LinkedIn](https://www.linkedin.com/in/fredrich-passow-4789146)
  &nbsp; &nbsp; &nbsp; 
 [![GitHub icon](github.png) GitHub](https://github.com/fpassow)
+  &nbsp; &nbsp; &nbsp; 
+ [![Kaggle icon](kaggle_icon.png) Kaggle](https://www.kaggle.com/fritzpassow/code)
+
