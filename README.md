@@ -2,6 +2,8 @@
  &nbsp; &nbsp; &nbsp; 
 [![GitHub icon](github.png) GitHub](https://github.com/fpassow)
  &nbsp; &nbsp; &nbsp; 
+ [![Kaggle icon](kaggle_icon.png) Kaggle](https://www.kaggle.com/fritzpassow/code)
+  &nbsp; &nbsp; &nbsp; 
 [![me](fp.png) About Me](about_me.html)
 
 # Projects
@@ -42,4 +44,6 @@ of bare HTML.
  &nbsp; &nbsp; &nbsp; 
 [![GitHub icon](github.png) GitHub](https://github.com/fpassow)
  &nbsp; &nbsp; &nbsp; 
+ [![Kaggle icon](kaggle_icon.png) Kaggle](https://www.kaggle.com/fritzpassow/code)
+  &nbsp; &nbsp; &nbsp; 
 [![me](fp.png) About Me](about_me.html)
