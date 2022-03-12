@@ -13,13 +13,18 @@
 Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis) . And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
-## [Some Statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
-<img align="left" src="annie-spratt-wseixWvrsD4-unsplash_SMALLER.jpg">
-No earth-shattering insights here. Just some practice slicing, dicing, and graphing with Python, Pandas, and Seaborn.
-<br clear="left"/>
+## [Explore frequencies of US baby names from US Social Security data using SQL and Tableau](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau)
+Use SQL to [extract an interesting subset of data from a Sqlite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
+
+Then [analyze with Tableau Public](https://public.tableau.com/app/profile/fritz1693/viz/BabyNamesbyStateandYear/BabyNamesbyStateandYear). 
 
 ## [Explore US baby names with SQL and Pandas](https://www.kaggle.com/fritzpassow/explore-us-baby-names-with-sql-and-pandas)
 Kaggle has some Sqlite datasets. These are fun to play with and the results are easy to share. This notebook does some analysis of Social Security names data, first with SQL and then with Pandas.
+<br clear="left"/>
+
+## [Some Statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
+<img align="left" src="annie-spratt-wseixWvrsD4-unsplash_SMALLER.jpg">
+No earth-shattering insights here. Just some practice slicing, dicing, and graphing with Python, Pandas, and Seaborn.
 <br clear="left"/>
 
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/)
