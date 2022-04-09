@@ -14,7 +14,7 @@ Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pan
 <br clear="left"/>
 
 ## [Using Kroger's API](https://www.kaggle.com/code/fritzpassow/using-kroger-s-api)
-<img align="left" src="kroger_dev_logo.png">
+<img align="left" src="kroger-integrated-blue-text.svg">
 Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle notebook demonstrates how access the API using very simple Oauth authentication and how fetch information on Kroger stores and products. This data might be useful for data analisys related to food, prices, and geographic trends.
 <br clear="left"/>
 
