@@ -17,9 +17,14 @@ Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pan
 
 ## [Exploring Covid Data with SQL](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html)
 <img align="left" src="ssms.png">
-* Download data using curl
-* Use a script to load or update SQL Server. Agregate daily data to monthly
-* And then look for countries and months with high infection rates, vaccination rates, or death rates
+Download data using curl
+
+Use a script to load or update SQL Server
+
+Agregate daily data to monthly
+
+And then look for countries and months with high infection rates, vaccination rates, or death rates
+
 Everything is in [this github repo](https://github.com/fpassow/world_data/tree/main/owid_covid) and the analysis is presented 
 [in a markdown page here](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html)
 <br clear="left"/>
