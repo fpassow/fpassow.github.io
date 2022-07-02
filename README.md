@@ -72,6 +72,10 @@ Quick facts about the R programming language, summarized for people who already 
 Data Analyst Certification course uses it. But all the R courses I found were also teaching how to program. So I took time out to
 research the question of "what kind of language is R?", so I could stop wondering about these things while doing the lessons.
 
+## [Mnomic for SQL Query Order of Execution](SQL_execution_order_mnemonic.jpg)
+[<img align="left" src="sql_mnemonic_small.jpg">](SQL_execution_order_mnemonic.jpg)
+For me, the order of execution finally explained why some things are legal or illegal in various part of a query. For example, the fact that I can't use a name created by an AS clause if the SELECT line that contains it hasn't run yet. I do not own the original image and it is used only for non-proffit educational purposes. Credit to https://www.mnemonicgenerator.com/ for some early ideas.
+
 ## [Bootstrap for Engineers](https://fpassow.github.io/bootstrap4engineers.html)
 How non-designers can easily use [Bootstrap](https://getbootstrap.com) to modernize the look
 of bare HTML.
