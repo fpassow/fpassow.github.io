@@ -8,8 +8,9 @@
 
 # About Me
 
-I currently work for a Global SMS aggregator, a company that handles text messaging for other companies. When you get a one-time-pin,
-delivery notification, or appointment reminder, it passed through my employer or one of a small number of similar companies on its way
+I currently work for a global SMS aggregator, a company that handles text messaging for other companies. When you receive a text message
+for two-factor authentication, a
+delivery notification, or and appointment reminder, it passed through my employer or one of a small number of similar companies on its way
 to your mobile phone operator. That's a lot of messages. So that's a lot of data.
 
 Troubleshooting often involves filtering, aggregating, and visualizing all that data. Is a problem associated with Verizon, or AT&T?
@@ -25,13 +26,14 @@ I became interested in data work as an area that uses Python. And playing with t
 
 ## Skills
 
-- Python
 - SQL
+- Python
+- Tableau
 - R
 - Excel
-- Tableau
-- JavaScript
 - Unix command line
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82415c22-7347-4342-8dbe-bcdff5d6cefb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [![me](home.png) Home](https://fpassow.github.io)
  &nbsp; &nbsp; &nbsp; 

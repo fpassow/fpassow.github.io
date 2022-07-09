@@ -10,7 +10,7 @@
 
 ## [Recipe Ingredients Analysis](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis)
 <img align="left" src="katie-smith-uQs1802D0CQ-unsplash_SMALLER.jpg">
-Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis) . And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
+Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis). And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
 <br/>
@@ -21,37 +21,37 @@ Download data using curl
 
 Use a script to load or update SQL Server
 
-Agregate daily data to monthly
+Aggregate daily data to monthly
 
 And then look for countries and months with high infection rates, vaccination rates, or death rates
 
-Everything is in [this github repo](https://github.com/fpassow/world_data/tree/main/owid_covid) and the analysis is presented 
-[in a markdown page here](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html)
+Everything is in [this Github repo](https://github.com/fpassow/world_data/tree/main/owid_covid) and the analysis is presented 
+[on a markdown page here](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html)
 <br clear="left"/>
 
 <br/>
 
 ## [Load Data on City Populations and Combine With Covid Data Using SQL](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
 <img align="left" src="ssms.png">
-Load population data for cities an many countries. Create a table translating country names to ISO standard three-letter country codes.
+Load population data for cities and many countries. Create a table translating country names to ISO standard three-letter country codes.
 Add country codes to the city population data. Use country codes to join per-country data about covid with the population 
 of each country's largest city. 
 
-Everything is in [this github repo](https://github.com/fpassow/world_data/tree/main/city_populations) and the analysis is presented 
-[in a markdown page here](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
+Everything is in [this Github repo](https://github.com/fpassow/world_data/tree/main/city_populations) and the analysis is presented 
+[on a markdown page here](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
 <br clear="left"/>
 
 <br/>
 
 ## [Using Kroger's API](https://www.kaggle.com/code/fritzpassow/using-kroger-s-api)
 <img align="left" src="kroger_dev_logo.png">
-Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle notebook demonstrates how access the API using very simple Oauth authentication and how fetch information on Kroger stores and products. This data might be useful for data analisys related to food, prices, and geographic trends.
+Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle notebook demonstrates how to access the API using very simple Oauth authentication and how to fetch information on Kroger stores and products. This data might be useful for data analysis related to food, prices, and geographic trends.
 <br clear="left"/>
 
 <br/>
 
 ## [Explore frequencies of US baby names from US Social Security data using SQL and Tableau](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau)
-Use SQL to [extract an interesting subset of data from a Sqlite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
+Use SQL to [extract an interesting subset of data from a SQLite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
 
 Then [analyze with Tableau Public](https://public.tableau.com/app/profile/fritz1693/viz/BabyNamesbyStateandYear/BabyNamesbyStateandYear). 
 
@@ -72,7 +72,7 @@ No earth-shattering insights here. Just some practice slicing, dicing, and graph
 
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/)
 <img align="left" src="who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg">
-Analyze rides data from a fictional bike-share company using R and Excel.
+Analyze ride data from a fictional bike-share company using R and Excel.
 <br clear="left"/>
 
 <br/>
@@ -86,7 +86,7 @@ research the question of "what kind of language is R?", so I could stop wonderin
 
 ## [Mnemonic for SQL Query Order of Execution](SQL_execution_order_mnemonic.jpg)
 [<img align="left" src="sql_mnemonic_small.jpg">](SQL_execution_order_mnemonic.jpg)
-For me, the order of execution finally explained why some things are legal or illegal in various part of a query. For example, the fact that I can't use a name created by an AS clause if the SELECT line that contains it hasn't run yet. Credit to https://www.mnemonicgenerator.com/ for some early ideas.
+For me, the order of execution finally explained why some things are legal or illegal in various parts of a query. For example, the fact that I can't use a name created by an AS clause if the SELECT line that contains it hasn't run yet. Credit to https://www.mnemonicgenerator.com/ for some early ideas.
 
 ## [Bootstrap for Engineers](https://fpassow.github.io/bootstrap4engineers.html)
 How non-designers can easily use [Bootstrap](https://getbootstrap.com) to modernize the look
