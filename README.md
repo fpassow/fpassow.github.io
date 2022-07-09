@@ -31,6 +31,18 @@ Everything is in [this github repo](https://github.com/fpassow/world_data/tree/m
 
 <br/>
 
+## [Load Data on City Populations and Combine With Covid Data Using SQL](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
+<img align="left" src="ssms.png">
+Load population data for cities an many countries. Create a table translating country names to ISO standard three-letter country codes.
+Add country codes to the city population data. Use country codes to join per-country data about covid with the population 
+of each country's largest city. 
+
+Everything is in [this github repo](https://github.com/fpassow/world_data/tree/main/city_populations) and the analysis is presented 
+[in a markdown page here](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
+<br clear="left"/>
+
+<br/>
+
 ## [Using Kroger's API](https://www.kaggle.com/code/fritzpassow/using-kroger-s-api)
 <img align="left" src="kroger_dev_logo.png">
 Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle notebook demonstrates how access the API using very simple Oauth authentication and how fetch information on Kroger stores and products. This data might be useful for data analisys related to food, prices, and geographic trends.
