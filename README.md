@@ -51,7 +51,7 @@ Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle 
 <br/>
 
 ## [Explore frequencies of US baby names from US Social Security data using SQL and Tableau](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau)
-Use SQL to [extract an interesting subset of data from a SQLite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
+Use SQL to [extract an interesting subset of data from an SQLite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
 
 Then [analyze with Tableau Public](https://public.tableau.com/app/profile/fritz1693/viz/BabyNamesbyStateandYear/BabyNamesbyStateandYear). 
 
@@ -86,7 +86,7 @@ research the question of "what kind of language is R?", so I could stop wonderin
 
 ## [Mnemonic for SQL Query Order of Execution](SQL_execution_order_mnemonic.jpg)
 [<img align="left" src="sql_mnemonic_small.jpg">](SQL_execution_order_mnemonic.jpg)
-For me, the order of execution finally explained why some things are legal or illegal in various parts of a query. For example, the fact that I can't use a name created by an AS clause if the SELECT line that contains it hasn't run yet. Credit to https://www.mnemonicgenerator.com/ for some early ideas.
+For me, the order of execution finally explained why some things are legal or illegal in various parts of a query. For example, the fact I can't use a name created by an AS clause if the SELECT line that contains it hasn't run yet. Credit to https://www.mnemonicgenerator.com/ for some early ideas.
 
 ## [Bootstrap for Engineers](https://fpassow.github.io/bootstrap4engineers.html)
 How non-designers can easily use [Bootstrap](https://getbootstrap.com) to modernize the look
