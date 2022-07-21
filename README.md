@@ -8,14 +8,15 @@
 
 # Projects
 
-## [Recipe Ingredients Analysis](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis)
+## [Recipe Ingredients Analysis](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis)  (Python, Pandas, Seaborn, Tableau)
+
 <img align="left" src="katie-smith-uQs1802D0CQ-unsplash_SMALLER.jpg">
 Analyze ingredient lists from a free recipes dataset on Kaggle using Python, Pandas, and Seaborn. The main analysis is [on Kaggle, here](https://www.kaggle.com/fritzpassow/recipe-ingredients-analysis). And some exported data can be explored on [Tableau Public, here](https://public.tableau.com/app/profile/fritz1693/viz/IngredientFrequenciesbyCuisine/IngredientFrequenciesbyCuisine#1).
 <br clear="left"/>
 
 <br/>
 
-## [Exploring Covid Data with SQL](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html)
+## [Exploring Covid Data with SQL](https://fpassow.github.io/world_data/owid_covid/queries_and_results.html) (Transact-SQL)
 <img align="left" src="ssms.png">
 Download data using curl
 
@@ -31,7 +32,7 @@ Everything is in [this Github repo](https://github.com/fpassow/world_data/tree/m
 
 <br/>
 
-## [Load Data on City Populations and Combine With Covid Data Using SQL](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html)
+## [Load Data on City Populations and Combine With Covid Data Using SQL](https://fpassow.github.io/world_data/city_populations/cities_queries_and_results.html) (Transact-SQL)
 <img align="left" src="ssms.png">
 Load population data for cities and many countries. Create a table translating country names to ISO standard three-letter country codes.
 Add country codes to the city population data. Use country codes to join per-country data about covid with the population 
@@ -43,27 +44,27 @@ Everything is in [this Github repo](https://github.com/fpassow/world_data/tree/m
 
 <br/>
 
-## [Using Kroger's API](https://www.kaggle.com/code/fritzpassow/using-kroger-s-api)
+## [Using Kroger's API](https://www.kaggle.com/code/fritzpassow/using-kroger-s-api) (Python, HTTP APIs)
 <img align="left" src="kroger_dev_logo.png">
 Kroger is a midwestern grocery chain that offers a public REST API. This Kaggle notebook demonstrates how to access the API using very simple Oauth authentication and how to fetch information on Kroger stores and products. This data might be useful for data analysis related to food, prices, and geographic trends.
 <br clear="left"/>
 
 <br/>
 
-## [Explore frequencies of US baby names from US Social Security data using SQL and Tableau](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau)
+## [Explore frequencies of US baby names from US Social Security data using SQL and Tableau](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau) (SQLite, Tableau)
 Use SQL to [extract an interesting subset of data from an SQLite database on Kaggle](https://www.kaggle.com/fritzpassow/baby-names-sql-and-tableau). 
 
 Then [analyze with Tableau Public](https://public.tableau.com/app/profile/fritz1693/viz/BabyNamesbyStateandYear/BabyNamesbyStateandYear). 
 
 <br/>
 
-## [Explore US baby names with SQL and Pandas](https://www.kaggle.com/fritzpassow/explore-us-baby-names-with-sql-and-pandas)
+## [Explore US baby names with SQL and Pandas](https://www.kaggle.com/fritzpassow/explore-us-baby-names-with-sql-and-pandas) (SQLite, Python, Pandas)
 Kaggle has some Sqlite datasets. These are fun to play with and the results are easy to share. This notebook does some analysis of Social Security names data, first with SQL and then with Pandas.
 <br clear="left"/>
 
 <br/>
 
-## [Some Statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells)
+## [Some Statistics on D&D Spells](https://www.kaggle.com/fritzpassow/some-statistics-on-d-d-spells) ( Python, Pandas, Seaborn)
 <img align="left" src="annie-spratt-wseixWvrsD4-unsplash_SMALLER.jpg">
 No earth-shattering insights here. Just some practice slicing, dicing, and graphing with Python, Pandas, and Seaborn.
 <br clear="left"/>
