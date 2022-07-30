@@ -71,6 +71,14 @@ No earth-shattering insights here. Just some practice slicing, dicing, and graph
 
 <br/>
 
+## [Titanic Data Set in SAS](https://fpassow.github.io/sas_titanic/) (SAS)
+<img align="left" src="sas_titanic/sas_studio.png">
+A small exercise working on the Titanic data set in the free online version of SAS Studio. SAS is a huge product
+with an old and unfamiliar syntax. 
+But I think it's useful for everyone to have seen the UI and be able Google their way through getting data in and out.
+<br clear="left"/>
+<br/>
+
 ## [Google Data Analytics Certificate: Final Project](https://fpassow.github.io/google_cert_project/) (R, Excel)
 <img align="left" src="who-s-denilo-GxEC8q7lm-M-unsplash_SMALLER.jpg">
 Analyze ride data from a fictional bike-share company using R and Excel.
